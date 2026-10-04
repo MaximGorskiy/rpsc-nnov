@@ -4,9 +4,6 @@
 *.log
 __pycache__/
 
-# Previous local copy; keep it outside the website repository
-/статический на beget/
-
 # Local environment and credentials
 .env
 .env.*
