@@ -6,3 +6,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .section-top{grid-column:1/-1;display:flex;justify-content:flex-end;margin-top:28px}.section-top.wrap{width:100%}.top-link{display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:9px 16px;border:1px solid currentColor;color:inherit;font-size:13px;text-decoration:none}.top-link:hover{text-decoration:underline}.top-link span{font-size:18px}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.brand-mark{display:inline-flex;flex-shrink:0}.brand-mark img{width:1em;height:1em}
